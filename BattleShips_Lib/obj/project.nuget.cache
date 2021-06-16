@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "E+Ao9WK2YvABLOsWIpfPa4ll0kjK2IgwdSuioTT00GmQsfMY36yxqTd1KuJjHIXRveJYCFzTW3XpiwRKhRNC1A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\данил\\source\\repos\\BattleShips_3\\BattleShips_Lib\\BattleShips_Lib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\данил\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\данил\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

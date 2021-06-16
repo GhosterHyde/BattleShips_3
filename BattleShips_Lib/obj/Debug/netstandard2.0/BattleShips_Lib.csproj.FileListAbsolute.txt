@@ -1,0 +1,9 @@
+C:\Users\данил\source\repos\BattleShips_3\BattleShips_Lib\bin\Debug\netstandard2.0\BattleShips_Lib.deps.json
+C:\Users\данил\source\repos\BattleShips_3\BattleShips_Lib\bin\Debug\netstandard2.0\BattleShips_Lib.dll
+C:\Users\данил\source\repos\BattleShips_3\BattleShips_Lib\bin\Debug\netstandard2.0\BattleShips_Lib.pdb
+C:\Users\данил\source\repos\BattleShips_3\BattleShips_Lib\obj\Debug\netstandard2.0\BattleShips_Lib.AssemblyInfoInputs.cache
+C:\Users\данил\source\repos\BattleShips_3\BattleShips_Lib\obj\Debug\netstandard2.0\BattleShips_Lib.AssemblyInfo.cs
+C:\Users\данил\source\repos\BattleShips_3\BattleShips_Lib\obj\Debug\netstandard2.0\BattleShips_Lib.csproj.CoreCompileInputs.cache
+C:\Users\данил\source\repos\BattleShips_3\BattleShips_Lib\obj\Debug\netstandard2.0\BattleShips_Lib.dll
+C:\Users\данил\source\repos\BattleShips_3\BattleShips_Lib\obj\Debug\netstandard2.0\BattleShips_Lib.pdb
+C:\Users\данил\source\repos\BattleShips_3\BattleShips_Lib\obj\Debug\netstandard2.0\BattleShips_Lib.csprojAssemblyReference.cache

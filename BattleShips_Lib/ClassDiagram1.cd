@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BattleShips_Lib.Cell">
+    <Position X="1" Y="3" Width="1.5" />
+    <Members>
+      <Method Name="CheckCoordinatesCorrectnes" Hidden="true" />
+      <Method Name="CheckPositionCorrectness" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAABAABAAAAAABAQAAQACACGAAgAEgAAABAAAAAA=</HashCode>
+      <FileName>Cell.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleShips_Lib.Field">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <Members>
+      <Method Name="AddNewShip" Hidden="true" />
+      <Method Name="AddShipInAnyDirection" Hidden="true" />
+      <Method Name="CheckEnteredCol" Hidden="true" />
+      <Method Name="CheckIfCellContainsShip" Hidden="true" />
+      <Method Name="CheckIfCellsNearFutureShipAreEmpty" Hidden="true" />
+      <Method Name="CheckIfCoordinateIsCorrect" Hidden="true" />
+      <Method Name="CheckIfDirectionHorizontal" Hidden="true" />
+      <Method Name="CheckIfEnvironmentCorrect" Hidden="true" />
+      <Method Name="CheckIfIndexNotOutOfRange" Hidden="true" />
+      <Method Name="CheckIfLetterCoordinateCorrect" Hidden="true" />
+      <Method Name="CheckIfShipLengthCorrect" Hidden="true" />
+      <Method Name="CheckIfSthNull" Hidden="true" />
+      <Method Name="CheckShipsEmount" Hidden="true" />
+      <Method Name="CheckStringFromFile" Hidden="true" />
+      <Method Name="CorrectEndIndex" Hidden="true" />
+      <Method Name="CorrectStartIndex" Hidden="true" />
+      <Method Name="CreateCells" Hidden="true" />
+      <Method Name="CreateField" Hidden="true" />
+      <Method Name="GetEndColIndex" Hidden="true" />
+      <Method Name="GetEndRowIndex" Hidden="true" />
+      <Method Name="GetEnteredCell" Hidden="true" />
+      <Method Name="GetEnteredCol" Hidden="true" />
+      <Method Name="GetEnteredRow" Hidden="true" />
+      <Method Name="GetShipLength" Hidden="true" />
+      <Method Name="HandleLine" Hidden="true" />
+      <Method Name="IncreaseSetShipEmount" Hidden="true" />
+      <Method Name="ReadArrangementFromFile" Hidden="true" />
+      <Method Name="SendErrorMessage" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BEIAAAQAQAwQAEgKEAMBAEECEAAwggAAI4AgCCACAEw=</HashCode>
+      <FileName>Field.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleShips_Lib.Game">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <Members>
+      <Method Name="AddFields" Hidden="true" />
+      <Method Name="AddPlayers" Hidden="true" />
+      <Method Name="CheckIfAllShipsWereDestroyed" Hidden="true" />
+      <Method Name="CheckIfArgumentsAreNull" Hidden="true" />
+      <Method Name="CheckIfDotIsNull" Hidden="true" />
+      <Method Name="CheckIfPathesNull" Hidden="true" />
+      <Method Name="CheckIfPlayersNull" Hidden="true" />
+      <Method Name="CheckMessage" Hidden="true" />
+      <Method Name="CheckWinner" Hidden="true" />
+      <Method Name="CreateField" Hidden="true" />
+      <Method Name="EndGame" Hidden="true" />
+      <Method Name="EndStep" Hidden="true" />
+      <Method Name="GetColumn" Hidden="true" />
+      <Method Name="GetRow" Hidden="true" />
+      <Method Name="SetDefaultValues" Hidden="true" />
+      <Method Name="SetGameProperties" Hidden="true" />
+      <Method Name="Step" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAigSASEEAAgAIgAAASAIGAgAQAgBAEAIBAAIAASgCA=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleShips_Lib.Player">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <Members>
+      <Method Name="CheckIfArgumentsAreNull" Hidden="true" />
+      <Method Name="CheckIfCellContainsShip" Hidden="true" />
+      <Method Name="CheckIfCellCoordinatesAreCorrect" Hidden="true" />
+      <Method Name="CheckIfCellNotContainsShip" Hidden="true" />
+      <Method Name="CheckIfCellWasEmpty" Hidden="true" />
+      <Method Name="CheckIfCellWasNotShooted" Hidden="true" />
+      <Method Name="CheckIfCoordinateIsCorrect" Hidden="true" />
+      <Method Name="CheckIfShipSank" Hidden="true" />
+      <Method Name="GetCellAndChangeItState" Hidden="true" />
+      <Method Name="GetColumn" Hidden="true" />
+      <Method Name="GetRow" Hidden="true" />
+      <Method Name="HitAllCellsNearShootedShip" Hidden="true" />
+      <Method Name="HitNonEmptyCell" Hidden="true" />
+      <Method Name="ReturnCellsOfShip" Hidden="true" />
+      <Method Name="ShootCell" Hidden="true" />
+      <Method Name="ShootNonShootedCell" Hidden="true" />
+      <Method Name="TryToSankShip" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAA4CAAAgAQAAAgBIARACQAAIgEBAAAAAAAAIgAAEA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleShips_Lib.Ship">
+    <Position X="3.5" Y="4.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAQAAAAAA=</HashCode>
+      <FileName>Ship.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BattleShips_Lib.Savior">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Savior.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="BattleShips_Lib.IDrawable">
+    <Position X="6" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAEQAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IDrawable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="BattleShips_Lib.CellStates">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAACAAAAgAA=</HashCode>
+      <FileName>CellStates.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BattleShips_Lib.StepStates">
+    <Position X="8.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEEAQAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>StepStates.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,10 @@
+A2 h 3
+A10 v 2
+B6 v 4
+D9 v 2
+E1 h 3
+G5 v 1
+H7 v 1
+I1 v 1
+J4 h 2
+J8 h 1

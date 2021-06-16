@@ -1,0 +1,16 @@
+C:\Users\данил\source\repos\BattleShips_3\BattleShips_3\obj\Debug\netcoreapp3.1\BattleShips_3.csprojAssemblyReference.cache
+C:\Users\данил\source\repos\BattleShips_3\BattleShips_3\obj\Debug\netcoreapp3.1\BattleShips_3.AssemblyInfoInputs.cache
+C:\Users\данил\source\repos\BattleShips_3\BattleShips_3\obj\Debug\netcoreapp3.1\BattleShips_3.AssemblyInfo.cs
+C:\Users\данил\source\repos\BattleShips_3\BattleShips_3\obj\Debug\netcoreapp3.1\BattleShips_3.csproj.CoreCompileInputs.cache
+C:\Users\данил\source\repos\BattleShips_3\BattleShips_3\bin\Debug\netcoreapp3.1\BattleShips_3.exe
+C:\Users\данил\source\repos\BattleShips_3\BattleShips_3\bin\Debug\netcoreapp3.1\BattleShips_3.deps.json
+C:\Users\данил\source\repos\BattleShips_3\BattleShips_3\bin\Debug\netcoreapp3.1\BattleShips_3.runtimeconfig.json
+C:\Users\данил\source\repos\BattleShips_3\BattleShips_3\bin\Debug\netcoreapp3.1\BattleShips_3.runtimeconfig.dev.json
+C:\Users\данил\source\repos\BattleShips_3\BattleShips_3\bin\Debug\netcoreapp3.1\BattleShips_3.dll
+C:\Users\данил\source\repos\BattleShips_3\BattleShips_3\bin\Debug\netcoreapp3.1\BattleShips_3.pdb
+C:\Users\данил\source\repos\BattleShips_3\BattleShips_3\bin\Debug\netcoreapp3.1\BattleShips_Lib.dll
+C:\Users\данил\source\repos\BattleShips_3\BattleShips_3\bin\Debug\netcoreapp3.1\BattleShips_Lib.pdb
+C:\Users\данил\source\repos\BattleShips_3\BattleShips_3\obj\Debug\netcoreapp3.1\BattleShips_3.csproj.CopyComplete
+C:\Users\данил\source\repos\BattleShips_3\BattleShips_3\obj\Debug\netcoreapp3.1\BattleShips_3.dll
+C:\Users\данил\source\repos\BattleShips_3\BattleShips_3\obj\Debug\netcoreapp3.1\BattleShips_3.pdb
+C:\Users\данил\source\repos\BattleShips_3\BattleShips_3\obj\Debug\netcoreapp3.1\BattleShips_3.genruntimeconfig.cache

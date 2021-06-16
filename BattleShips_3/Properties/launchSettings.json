@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BattleShips_3": {
+      "commandName": "Project",
+      "commandLineArgs": "../../../Field1.txt ../../../Field2.txt"
+    }
+  }
+}
